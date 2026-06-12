@@ -6,6 +6,8 @@ This project studies the impact of digital payment adoption (UPI intensity) on i
 
 ---
 
+## Project Year: 2026
+
 ## Objectives
 
 * Construct a UPI intensity index from survey responses.
@@ -85,6 +87,29 @@ This study provides evidence on how digital payment systems reshape informal mar
 
 ---
 
-## Author
+## Authors and Contributions
 
-Rahul Ganguly
+This project was completed as a group academic project under faculty supervision.
+
+### Authors
+- Rahul Ganguly  
+- [Other authors as listed in the project report]
+
+---
+
+### Individual Contributions (Rahul Ganguly)
+
+Rahul Ganguly contributed to the following components of the project:
+
+- Data preprocessing and cleaning of survey / experimental datasets  
+- Exploratory data analysis and statistical visualization  
+- Implementation of statistical and machine learning models (regression / classification / inference methods)  
+- Application of hypothesis testing and/or Bayesian estimation techniques  
+- Generation and interpretation of plots and diagnostic outputs  
+- Preparation of analytical sections of the project report  
+- Validation and interpretation of final results  
+
+---
+
+### Project Note
+This work was conducted collaboratively as part of an academic group project. All authors contributed to different stages including data collection, modeling, analysis, and report preparation under faculty guidance.
