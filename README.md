@@ -76,7 +76,6 @@ report.pdf
 presentation.pdf
 
 datasets/
-code/
 ```
 
 ---
